@@ -1035,3 +1035,18 @@ A callback is a function passed as an argument to another function.
 
 <br><br>
 
+###### Question 60.
+
+Explain the role of template engines in Express.js
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+Template engines in Express.js are used for rendering dynamic content on the server-side. 
+
+</p>
+</details>
+
+<br><br>
+
+

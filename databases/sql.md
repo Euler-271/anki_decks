@@ -985,3 +985,18 @@ TCL (Transaction Control Language) commands are used to control the start and en
 
 <br><br>
 
+###### Question 58.
+
+Explain the concept of SQL query optimization and provide an example of an optimization technique.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+SQL query optimization is the process of improving the performance of SQL queries. An example of an optimization technique is using indexes to reduce the number of rows scanned during query execution, resulting in faster query performance.
+</p>
+</details>
+
+<br><br>
+
+
+

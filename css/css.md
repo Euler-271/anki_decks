@@ -138,3 +138,15 @@ a:hover {
 </p>
 </details>
 <br><br>
+
+Question 13.
+Question: What is the CSS box-sizing property used for, and what are its possible values?
+
+<details><summary><b>Answer</b></summary>
+<p>
+The CSS box-sizing property controls how an element's total width and height are calculated, with possible values of content-box and border-box.
+
+</p>
+</details>
+<br><br>
+
